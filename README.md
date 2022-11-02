@@ -1,3 +1,3 @@
 # test
 
-# This is a test file for iDTech
+This is a test file for iDTech
